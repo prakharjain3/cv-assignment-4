@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 cityscapes_data
+epoch_losses.npy
+step_losses.npy
+U-Net.pth
 
 # C extensions
 *.so
