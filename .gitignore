@@ -6,6 +6,10 @@ cityscapes_data
 epoch_losses.npy
 step_losses.npy
 U-Net.pth
+epoch_losses_no_skip_connections.npy
+step_losses_no_skip_connections.npy
+U-Net-no-skip-connection.pth
+
 
 # C extensions
 *.so
