@@ -4,6 +4,8 @@ __pycache__/
 *$py.class
 cityscapes_data
 epoch_losses.npy
+float16.png
+float32.png
 step_losses.npy
 U-Net.pth
 epoch_losses_no_skip_connections.npy
